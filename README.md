@@ -2,6 +2,8 @@
 
 Una simple prueba de concepto de cómo nos puede servir Arduino para una la instalación de un sistema de control de acceso.
 
+Si desea algo más completo (registro de los accesos en la nube), puede consultar otro de mis proyectos: [https://github.com/fmdavid/controlAccesoRFIDGoogleDrive](https://github.com/fmdavid/controlAccesoRFIDGoogleDrive).
+
 ## Vídeo explicativo
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
